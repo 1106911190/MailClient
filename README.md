@@ -36,14 +36,16 @@ SSL
  - 收邮件的部分功能
  - 邮箱服务器的快速定位
 
- *2015.11.24         
- 1. mailclient_0_3             
+*2015.11.24         
+1. mailclient_0_3             
  - 收件箱的功能完善                          
- 2. mailclient_0_4                                 
+2. mailclient_0_4                                 
  - 发件箱的功能完善                               
 
- *2015.11.26                             
- 1. mailclient_0_5                
+*2015.11.26                             
+1. mailclient_0_5                
  - 收件箱的功能基本完善                  
- 2. mailclient_0_6                    
- -  收件箱的功能再次完善                         
+2. mailclient_0_6                    
+ -  收件箱的功能再次完善      
+3. mailclient_1_0
+ - 基本完成                    
